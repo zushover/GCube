@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/golden-cube-logo.png" width="420" alt="Golden Cube Logo"/>
+  <img src="docs/GCube.png" width="420" alt="Golden Cube Logo"/>
 </p>
 
 <h1 align="center">Golden Cube</h1>

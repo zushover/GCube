@@ -1,0 +1,2 @@
+class ParallelState:
+    pass

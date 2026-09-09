@@ -1,0 +1,2 @@
+class ChatCompletionRequest:
+    pass

@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "golden-cube"
+version = "0.1.0"
+description = "An experimental high-performance LLM inference engine"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [
+  {name = "Golden Cube Contributors"}
+]
+dependencies = [
+  "torch>=2.4",
+  "transformers>=4.45",
+  "safetensors>=0.4",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8",
+  "ruff>=0.6",
+  "mypy>=1.11",
+]
+
+[project.scripts]
+golden-cube = "golden_cube.entrypoints.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["golden_cube*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"

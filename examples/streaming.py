@@ -1,0 +1,1 @@
+"""Streaming inference example placeholder."""

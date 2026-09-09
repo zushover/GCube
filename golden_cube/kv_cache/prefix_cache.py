@@ -1,0 +1,2 @@
+class PrefixCache:
+    pass

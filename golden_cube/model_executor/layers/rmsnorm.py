@@ -1,0 +1,2 @@
+class RMSNorm:
+    pass

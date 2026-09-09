@@ -1,0 +1,2 @@
+class LogitsProcessor:
+    pass

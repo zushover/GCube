@@ -1,0 +1,2 @@
+class FlashAttentionBackend:
+    pass

@@ -12,14 +12,6 @@
   Fast · Efficient · Scalable · Open
 </p>
 
-<p align="center">
-  <a href="#-overview">Overview</a> •
-  <a href="#-features">Features</a> •
-  <a href="#-architecture">Architecture</a> •
-  <a href="#-quick-start">Quick Start</a> •
-  <a href="#-roadmap">Roadmap</a> •
-  <a href="#-benchmark">Benchmark</a>
-</p>
 
 ---
 

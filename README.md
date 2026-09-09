@@ -2,8 +2,6 @@
   <img src="docs/GCube.png" width="420" alt="Golden Cube Logo"/>
 </p>
 
-<h1 align="center">Golden Cube</h1>
-
 <p align="center">
   <strong>GCube — A high-performance LLM inference engine.</strong>
 </p>
